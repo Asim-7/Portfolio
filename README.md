@@ -2,16 +2,16 @@
 This contains my work portfolio
 
 ## Table of Contents
-- [Android](#introduction)
-    - [FlickrFinder](#flikerfinder)
-- [Android touchscreens](#installation)
-- [React Native](#usage)
+- [Android](#android)
+    - [FlickrFinder](#flickr-finder)
+- [Android touchscreens](#android-touchscreens)
+- [React Native](#react-native)
 - [License](#license)
 
 ## Android
 These are react Android projects.
 
-### FlickrFinder
+### Flickr Finder
 Nice and modern architecture
 
 ## Android touchscreens
