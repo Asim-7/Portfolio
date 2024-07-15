@@ -1,8 +1,26 @@
 # Portfolio
 This contains my work portfolio
 
-## **Copyright**
+## Table of Contents
+- [Android](#introduction)
+    - [FlickrFinder](#flikerfinder)
+- [Android touchscreens](#installation)
+- [React Native](#usage)
+- [License](#license)
 
+## Android
+These are react Android projects.
+
+### FlickrFinder
+Nice and modern architecture
+
+## Android touchscreens
+These are react Android touchscreens projects.
+
+## React Native
+These are react native projects.
+
+## License
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
