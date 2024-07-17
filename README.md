@@ -2,9 +2,15 @@
 
 ## Table of Contents
 - [Android](#android)
-    - [FlickrFinder](#flickr-finder)
+    - [Flickr Finder App](#flickr-finder)
     - [Instagram Clone App](#instagram-clone-app)
+    - Speed Maths
+    - Live Match Scorecard
+    - Food Recipies
 - [Android touchscreens](#android-touchscreens)
+    - Advanced File Manager
+    - Floating Keyboard
+    - Canvas Drawing App
 - [React Native](#react-native)
     - [Management App](#management-app)
     - [Delivery App](#delivery-app)
