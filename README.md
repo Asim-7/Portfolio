@@ -5,6 +5,8 @@
     - [FlickrFinder](#flickr-finder)
 - [Android touchscreens](#android-touchscreens)
 - [React Native](#react-native)
+    - [Management App](#management-app)
+    - [Delivery App](#delivery-app)
 - [License](#license)
 
 ## Android
