@@ -16,6 +16,12 @@
 These are Android projects.
 
 ### Flickr Finder
+- Works with FlickrImage API. Able to search, preview the images according to topics. Pagination also included.
+- Jetpack Compose, MVVM, Navigation.
+- Material design, Unit Tests
+- State flows, Hilt dependency injection.
+- Light and dark mode.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/Asim-7/FlickrFinder/assets/25628828/a48790ed-eece-4c95-a9e6-6b28a3186cb3" alt="Screenshot 2" width="22%">
   <img src="https://github.com/Asim-7/FlickrFinder/assets/25628828/818efa18-efca-4a3c-ad05-716a5842c512" alt="Screenshot 3" width="22%">
@@ -23,55 +29,20 @@ These are Android projects.
   <img src="https://github.com/Asim-7/FlickrFinder/assets/25628828/4defc2c5-98e4-4f91-a7a9-12730b4fd9a0" alt="Screenshot 2" width="22%">
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-        
-## Details
-- Works with FlickrImage API. Able to search, preview the images according to topics. Pagination also included.
-- Network state check, pagination and much more.
-- Images are shown and searched based on Flickr Image API.
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-- Jetpack Compose, MVVM, Navigation.
-- Material design, Unit Tests
-- State flows, Hilt dependency injection.
-- Light and dark mode.
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ### Instagram Clone App
+- Social media app features: post, comment, like, follow and profiles.
+- Firebase Auth used for login and sign up.
+- Firebase database is used for data operations.
+- Kotlin, based on MVP architecture.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/a60959e2-f7f8-48d3-a7ea-e6a9c607a654" alt="Screenshot 2" width="22%">
   <img src="https://github.com/user-attachments/assets/aa1d2a2f-74c7-4e20-869d-f09aca0752f6" alt="Screenshot 1" width="22%">
   <img src="https://github.com/user-attachments/assets/ba9b1a35-9f75-4c6f-b332-634346d66657" alt="Screenshot 3" width="22%">
   <img src="https://github.com/user-attachments/assets/a8df846a-0451-44bf-9952-03190f3585b3" alt="Screenshot 1" width="22%">
 </div>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-        
-## Details
-- Works with FlickrImage API. Able to search, preview the images according to topics. Pagination also included.
-- Network state check, pagination and much more.
-- Images are shown and searched based on Flickr Image API.
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-- Jetpack Compose, MVVM, Navigation.
-- Material design, Unit Tests
-- State flows, Hilt dependency injection.
-- Light and dark mode.
-    </td>
-  </tr>
-</table>
 
 <br>
 
