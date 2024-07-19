@@ -47,6 +47,11 @@ These are Android projects.
 <br>
 
 ### Speed Maths
+- App for kids, learn Maths by solving problems.
+- Firebase Auth & Firebase database with Java & Kotlin mix.
+- Solve problems, get points, rankings, profiles and competitions.
+- Multiple profiles under 1 parent profile for family competitions.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/87bc0378-c6bc-491a-9e10-c65d29c22eb0" alt="Screenshot 2" width="22%">
   <img src="https://github.com/user-attachments/assets/385e5a19-0e91-4bec-828f-729c8281e437" alt="Screenshot 3" width="22%">
@@ -57,6 +62,11 @@ These are Android projects.
 <br>
 
 ### Live Match Scorecard
+- Live score updates and statics about teams and players.
+- Twitter Api integrated for news regarding special tags.
+- Java & Kotlin mix project.
+- Notifications and up to date content.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/24b92b76-fb93-4003-a337-074d4ab90832" alt="Screenshot 2" width="22%">
   <img src="https://github.com/user-attachments/assets/ff9429aa-44c9-49f6-8266-1cf023da05a7" alt="Screenshot 3" width="22%">
@@ -67,6 +77,11 @@ These are Android projects.
 <br>
 
 ### Food Recipies App
+- Search different recipies with full description and video links to YouTube.
+- Integrated with Food Api.
+- Java & Kotlin mix project.
+- Aync api calls handeling.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/873aa853-6c82-4cea-865c-4d39b8fb83e0" alt="Screenshot 2" width="22%">
   <img src="https://github.com/user-attachments/assets/1170f243-935f-4574-999f-5509fd3549f6" alt="Screenshot 3" width="22%">
