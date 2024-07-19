@@ -95,6 +95,11 @@ These are Android projects.
 These are react native projects.
 
 ### Management App
+- Scheduling app for Android and iOS.
+- Navigation, expo calendar, time & date picker.
+- Calendar event maangement.
+- Using Javascript & Typescript.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/user-attachments/assets/9396e417-2b6b-4140-a991-03ebe9615827" alt="Screenshot 2" width="22%">
   <img src="https://github.com/user-attachments/assets/50cd89ce-1a18-4999-958b-4f146ee7da78" alt="Screenshot 3" width="22%">
@@ -102,55 +107,20 @@ These are react native projects.
   <img src="https://github.com/user-attachments/assets/9bf8baac-f285-4775-8576-6131ff17d697" alt="Screenshot 2" width="22%">
 </div>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-        
-## Details
-- Works with FlickrImage API. Able to search, preview the images according to topics. Pagination also included.
-- Network state check, pagination and much more.
-- Images are shown and searched based on Flickr Image API.
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-- Jetpack Compose, MVVM, Navigation.
-- Material design, Unit Tests
-- State flows, Hilt dependency injection.
-- Light and dark mode.
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ### Delivery App
+- Delivery app clone for Android and iOS.
+- Navigation, Redux for state management.
+- Sanity CMS for backend data and Api calls.
+- Using Javascript & Typescript.
+
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/Asim-7/Deliver-App/assets/25628828/acc3477e-e986-4cbb-8371-c3263303f7e0" alt="Screenshot 1" width="22%">
   <img src="https://github.com/Asim-7/Deliver-App/assets/25628828/b23891b0-7b07-4897-9728-195f736c4090" alt="Screenshot 3" width="22%">
   <img src="https://github.com/Asim-7/Deliver-App/assets/25628828/ec0c4454-d5c7-44af-a234-a69a30e9a036" alt="Screenshot 1" width="22%">
   <img src="https://github.com/Asim-7/Deliver-App/assets/25628828/e55b938a-7214-42b3-8e53-5f69cbae243b" alt="Screenshot 3" width="22%">
 </div>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-        
-## Details
-- Works with FlickrImage API. Able to search, preview the images according to topics. Pagination also included.
-- Network state check, pagination and much more.
-- Images are shown and searched based on Flickr Image API.
-    </td>
-    <td valign="top" width="50%">
-
-## Technologies Used
-- Jetpack Compose, MVVM, Navigation.
-- Material design, Unit Tests
-- State flows, Hilt dependency injection.
-- Light and dark mode.
-    </td>
-  </tr>
-</table>
 
 <br>
 
