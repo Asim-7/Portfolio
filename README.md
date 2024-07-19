@@ -7,10 +7,6 @@
     - Speed Maths
     - Live Match Scorecard
     - Food Recipies
-- [Android touchscreens](#android-touchscreens)
-    - Advanced File Manager
-    - Floating Keyboard
-    - Canvas Drawing App
 - [React Native](#react-native)
     - [Management App](#management-app)
     - [Delivery App](#delivery-app)
@@ -79,8 +75,33 @@ These are Android projects.
 
 <br>
 
-## Android touchscreens
-These are Android touchscreens projects.
+### Speed Maths
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/87bc0378-c6bc-491a-9e10-c65d29c22eb0" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/385e5a19-0e91-4bec-828f-729c8281e437" alt="Screenshot 3" width="22%">
+  <img src="https://github.com/user-attachments/assets/6af814fd-eade-4300-ad3a-e2253837205c" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/95513c03-f04a-4757-9fbf-8ff7b1024687" alt="Screenshot 2" width="22%">
+</div>
+
+<br>
+
+### Live Match Scorecard
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/24b92b76-fb93-4003-a337-074d4ab90832" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/ff9429aa-44c9-49f6-8266-1cf023da05a7" alt="Screenshot 3" width="22%">
+  <img src="https://github.com/user-attachments/assets/e34bfef6-fc8f-4c66-a18c-23185a982706" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/41aa062a-8afd-4c34-9781-0b472adcdb19" alt="Screenshot 2" width="22%">
+</div>
+
+<br>
+
+### Food Recipies App
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/user-attachments/assets/873aa853-6c82-4cea-865c-4d39b8fb83e0" alt="Screenshot 2" width="22%">
+  <img src="https://github.com/user-attachments/assets/1170f243-935f-4574-999f-5509fd3549f6" alt="Screenshot 3" width="22%">
+  <img src="https://github.com/user-attachments/assets/86e9a194-1c36-4e64-8c6e-dc25b03eb8e8" alt="Screenshot 1" width="22%">
+  <img src="https://github.com/user-attachments/assets/060ad997-b7f3-47ea-9375-2a49d02e4609" alt="Screenshot 2" width="22%">
+</div>
 
 <br>
 
