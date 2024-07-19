@@ -4,9 +4,9 @@
 - [Android](#android)
     - [Flickr Finder App](#flickr-finder)
     - [Instagram Clone App](#instagram-clone-app)
-    - Speed Maths
-    - Live Match Scorecard
-    - Food Recipies
+    - [Speed Maths](#speed-maths)
+    - [Live Match Scorecard](#live-match-scorecard)
+    - [Food Recipies App](#food-recipies-app)
 - [React Native](#react-native)
     - [Management App](#management-app)
     - [Delivery App](#delivery-app)
